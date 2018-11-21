@@ -44,11 +44,11 @@
 .banner-slider .bxslider li {
   display: flex;
   justify-content: center;
+  padding: 0 15px;
 }
 
 .banner-slider .bxslider li img {
   width: 100%;
-  max-width: 200px;
 }
 
 .banner-slider .slider-controls {
